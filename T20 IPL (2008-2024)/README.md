@@ -1,5 +1,5 @@
 # Data Analysis of T20 IPL Data From 2008-2024
-![Alt text](T20 IPL (2008-2024)/wp3991167-ipl-wallpapers.jpg)
+![IPL Logo]("T20 IPL (2008-2024)/wp3991167-ipl-wallpapers.jpg")
 ### Overview:
 This project aims to analyze various aspects of the Indian Premier League (IPL) T20 cricket tournament from 2008 to 2024. The analysis includes statistical insights into runs scored, team performances, player achievements, stadium characteristics, and the impact of toss decisions on match outcomes.
 
