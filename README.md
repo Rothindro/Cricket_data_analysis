@@ -6,6 +6,7 @@ This project aims to analyze various aspects of the Indian Premier League (IPL) 
 ### Questions:
 
 What is the total runs scored in each season, and who was the champion of that season?
+
 What is the runs scored per match in each season?
 What is the number of tosses won by each team?
 Compare the toss decision (batting or bowling) trends across all IPL seasons.
