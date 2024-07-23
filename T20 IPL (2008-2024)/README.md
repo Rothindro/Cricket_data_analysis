@@ -1,3 +1,4 @@
+![2302743](https://github.com/user-attachments/assets/a29555f6-9906-462d-bbab-12c9bac51869)
 # Data Analysis of T20 IPL Data From 2008-2024
 ### Overview:
 This project aims to analyze various aspects of the Indian Premier League (IPL) T20 cricket tournament from 2008 to 2024. The analysis includes statistical insights into runs scored, team performances, player achievements, stadium characteristics, and the impact of toss decisions on match outcomes.
